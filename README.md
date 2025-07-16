@@ -1,0 +1,1 @@
+The component identification using RCNN and U-Net is an application of deep learning techniques in the field of mechanical engineering. This project is aimed at developing a deep learning model that can accurately identify and segment various components of an internal combustion engine using image data.
